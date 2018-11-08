@@ -1,0 +1,6 @@
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_2\Lab2\Structure_Pattern\Structure_Pattern\bin\Debug\Structure_Pattern.exe.config
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_2\Lab2\Structure_Pattern\Structure_Pattern\bin\Debug\Structure_Pattern.exe
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_2\Lab2\Structure_Pattern\Structure_Pattern\bin\Debug\Structure_Pattern.pdb
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_2\Lab2\Structure_Pattern\Structure_Pattern\obj\Debug\Structure_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_2\Lab2\Structure_Pattern\Structure_Pattern\obj\Debug\Structure_Pattern.exe
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_2\Lab2\Structure_Pattern\Structure_Pattern\obj\Debug\Structure_Pattern.pdb
